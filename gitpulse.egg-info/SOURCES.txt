@@ -1,6 +1,7 @@
 README.md
 pyproject.toml
 gitpulse/__init__.py
+gitpulse/__main__.py
 gitpulse/main.py
 gitpulse.egg-info/PKG-INFO
 gitpulse.egg-info/SOURCES.txt
