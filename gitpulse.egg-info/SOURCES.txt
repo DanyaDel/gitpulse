@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+gitpulse/__init__.py
+gitpulse/main.py
+gitpulse.egg-info/PKG-INFO
+gitpulse.egg-info/SOURCES.txt
+gitpulse.egg-info/dependency_links.txt
+gitpulse.egg-info/entry_points.txt
+gitpulse.egg-info/requires.txt
+gitpulse.egg-info/top_level.txt

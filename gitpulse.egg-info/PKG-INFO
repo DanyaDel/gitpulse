@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: gitpulse
+Version: 0.1.0
+Summary: A Git status and developer activity tracking utility
+Requires-Dist: typer[all]
+Requires-Dist: gitpython
+Requires-Dist: rich
+Requires-Dist: requests
+Requires-Dist: python-dotenv

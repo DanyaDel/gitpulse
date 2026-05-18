@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gitpulse"
+version = "0.1.0"
+description = "A Git status and developer activity tracking utility"
+dependencies = [
+    "typer[all]",
+    "gitpython",
+    "rich",
+    "requests",
+    "python-dotenv"
+]
+
+[project.scripts]
+gitpulse = "gitpulse.main:app"
